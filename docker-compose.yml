@@ -13,7 +13,7 @@ meshblu:
     - UUID=idcf
     - TOKEN=channel
   ports:
-    - "1883:1883"
+    - "1884:1884"
   links:
     - redis
     - mongo
